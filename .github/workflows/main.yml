@@ -1,4 +1,4 @@
-name: Fairy
+name: autocontrib
 
 on:
   schedule:
