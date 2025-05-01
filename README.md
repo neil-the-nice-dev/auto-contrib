@@ -34,7 +34,8 @@ GitHub bloque le `git push` dans les actions par défaut. Pour autoriser l'actio
 - Clique sur **"Save"**
 
 📸 Exemple :  
-> ![permissions screenshot](https://docs.github.com/assets/images/help/repository/actions-permissions-workflow.png)
+> ![permissions screenshot](<img width="821" alt="Capture d’écran 2025-05-01 à 21 50 27" src="https://github.com/user-attachments/assets/348aada5-1542-468a-8fb5-fdc1a1cd91cb" />
+)
 
 ---
 
@@ -48,10 +49,10 @@ GitHub bloque le `git push` dans les actions par défaut. Pour autoriser l'actio
 
 ## 🕒 Fréquence
 
-L’action s’exécute automatiquement **tous les jours à 22h25 (heure de La Réunion, UTC+4)**.
+L’action s’exécute automatiquement **tous les jours à 22h25 (heure de La Réunion, UTC+4, modifiable dnas les parametres)**.
 
 ---
 
 ## ❓ Besoin d’aide ?
 
-Ouvre une issue ou contacte le créateur du dépôt pour toute question ✨
+Ouvre une issue ou contacte moi ✨
