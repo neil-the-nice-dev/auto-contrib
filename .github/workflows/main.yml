@@ -2,7 +2,7 @@ name: Fairy
 
 on:
   schedule:
-    - cron: '25 18 * * *' # tous les jours à 22h25 heure Réunion
+    - cron: '30 18 * * *' # tous les jours à 22h25 heure Réunion
   workflow_dispatch:
 
 jobs:
