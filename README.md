@@ -45,7 +45,7 @@ GitHub bloque le `git push` dans les actions par défaut. Pour autoriser l'actio
 
 ## 🕒 Fréquence
 
-L’action s’exécute automatiquement **tous les jours à 22h25 (heure de La Réunion, UTC+4, modifiable dnas les parametres)**.
+L’action s’exécute automatiquement **tous les jours à 12h (heure de La Réunion, UTC+4, modifiable dnas les parametres)**.
 
 ---
 
