@@ -33,10 +33,6 @@ GitHub bloque le `git push` dans les actions par défaut. Pour autoriser l'actio
 - Sélectionne **"Read and write permissions"**
 - Clique sur **"Save"**
 
-📸 Exemple :  
-> ![permissions screenshot](<img width="821" alt="Capture d’écran 2025-05-01 à 21 50 27" src="https://github.com/user-attachments/assets/348aada5-1542-468a-8fb5-fdc1a1cd91cb" />
-)
-
 ---
 
 ## 🔄 Ce que fait le workflow
