@@ -49,6 +49,13 @@ L’action s’exécute automatiquement **tous les jours à 16h (heure de La Ré
 
 ---
 
+## ATTENTION !!!
+
+il est possible qu'à un certain temps le token expire, c'est pouquoi il faut verifier tout 4 semaines quil soit toujours valable et jusqu'à quand 
+Ce token ne doit pas etre public c'est pourquoi il est important de le caché 
+
+---
+
 ## ❓ Besoin d’aide ?
 
 Ouvre une issue ou contacte moi ✨
