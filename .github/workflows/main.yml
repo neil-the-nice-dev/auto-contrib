@@ -2,7 +2,7 @@ name: autocontrib
 
 on:
   schedule:
-    - cron: '0 12 * * *' # tous les jours à 16h heure Réunion (UTC+4)
+    - cron: '0 12 * * *' # tous les jours à 12h heure France et 16h à la Reunion(UTC+4)
   workflow_dispatch:
 
 jobs:
